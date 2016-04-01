@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM sithembiso/ubuntu
 
 MAINTAINER Hiroaki Sano <hiroaki.sano.9stories@gmail.com>
 
